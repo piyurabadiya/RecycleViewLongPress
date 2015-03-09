@@ -1,5 +1,3 @@
-package fi.aalto.legroup.achso.views;
-
 import android.content.Context;
 import android.support.annotation.Nullable;
 import android.support.v7.widget.RecyclerView;
