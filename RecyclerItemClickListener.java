@@ -9,8 +9,6 @@ import android.view.View;
  * Used for listening to RecyclerView item clicks. You can either implement an OnItemClickListener
  * or extend SimpleOnItemClickListener and override its methods.
  * 
- * Usage: recyclerView.addOnItemTouchListener(new RecyclerItemClickListener(...));
- * 
  * Licence: MIT
  * 
  * @author Leo Nikkilä <hello@lnikki.la>
@@ -70,7 +68,7 @@ public class RecyclerItemClickListener implements RecyclerView.OnItemTouchListen
     /**
      * A simple click listener whose methods can be overridden one by one.
      */
-    public abstract class SimpleOnItemClickListener implements OnItemClickListener {
+    public static abstract class SimpleOnItemClickListener implements OnItemClickListener {
 
         /**
          * Called when an item is clicked. The default implementation is a no-op.
