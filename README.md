@@ -11,7 +11,6 @@ public class SampleActivity extends Activity
 
     @Override
     protected void onStart() {
-
         // ...
 
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
@@ -41,7 +40,6 @@ public class SampleActivity extends Activity {
 
     @Override
     protected void onStart() {
-
         // ...
 
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
