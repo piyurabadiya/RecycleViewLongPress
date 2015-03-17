@@ -4,6 +4,8 @@ RecyclerItemClickListener
 > Questions? Comments?  
 > https://twitter.com/lnikkila
 
+-----
+
 Handles clicks and long presses out of the box.
 
 Use it like this:
