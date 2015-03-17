@@ -1,8 +1,8 @@
 RecyclerItemClickListener
 =========================
 
-> Questions? Comments?  
-> https://twitter.com/lnikkila
+Questions? Comments?  
+https://twitter.com/lnikkila
 
 -----
 
